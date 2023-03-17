@@ -1,0 +1,154 @@
+
+
+body{
+
+    background-color: #111827;
+
+}
+header h1{
+
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    margin-left: 110px;
+    margin-top: 80px;
+    
+}
+#ponto{
+    color:#0073B0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    position: relative;
+    right: 1.3rem;
+}
+
+.container{
+
+    width: 550px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+
+}
+
+.imag2 {
+
+   position: relative;
+   right: 40px;
+
+}
+
+.imag3 {
+
+   position: relative;
+   right: 80px;
+
+}
+
+.formulario{
+ 
+    position: relative;
+    top: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: .5rem;
+    width: 480px ;    
+    height: 410px ;
+    gap: 16px;
+    padding: 12px 16px;
+    margin-right: 40px;
+    background-color: #F9F9FB;
+     
+
+    
+}
+#password{
+    position: relative;
+    top: 1rem;
+}
+#log{
+    position: relative;
+    top: 2rem;
+}
+#error{
+    position: absolute;
+    color: red;
+    top: 20rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.formulario h2{
+    
+    font-family: 'Roboto', sans-serif;
+    padding-left: 186px ;
+    padding-top: 30px;
+    padding-right: 190px;
+
+}
+.formulario input{
+ 
+    border-radius: 5px;
+    width: 400px;
+    height: 48px;
+    padding: 0px 0px 0px 40px;
+    border: rgba(113, 128, 185, 0.32);;
+    background-color:rgba(113, 128, 185, 0.32);
+
+
+}
+
+.icon1{
+    position: absolute;
+   top: 8.6rem;
+    left: 2rem;
+} 
+.icon2{
+    position: absolute;
+    top: 12.6rem;
+    left: 2rem;
+}
+.icon3{
+    position: absolute;
+    top: .5rem;
+    left: 10rem;
+}
+
+hr{
+    width: 150px ;
+    margin-top: 30px ;
+    margin-bottom:20px ;
+}
+
+.formulario button{
+   
+    width: 440px;
+    height: 48px;
+    border-radius: 5px;
+    border: #7180B9;
+    background-color: #7180B9;
+
+}
+
+.git{
+  
+    position: relative;
+    left: 28px;
+
+
+}
+
+.git button{
+    
+    width: 280px;
+    height: 48px;
+
+}
+.git span{
+    font-weight: bold;
+    position: relative;
+    right: 40px;
+    font-family: 'Roboto', sans-serif;
+    
+}    
